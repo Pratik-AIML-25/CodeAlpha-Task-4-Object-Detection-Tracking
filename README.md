@@ -4,6 +4,8 @@
 object counting, and virtual line crossing, built on OpenCV.
 
 ---
+🚀 Live Demo
+https://pratik-aiml-25.github.io/CodeAlpha-Task-4-Object-Detection-Tracking/
 
 ## 1. Problem Statement
 
